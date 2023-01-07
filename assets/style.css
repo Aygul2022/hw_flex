@@ -21,6 +21,9 @@ justify-content: space-around;}
     display: flex;
     text-align: center;
     flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
 }
    
 .first{
@@ -44,17 +47,11 @@ height: 100px;
 }
 
 .third{
-font-weight: bolder;
-justify-content: space-around;
-align-items: center;
-display: flex;
+width: 920px;
+height: 100px;
+background-color:gold;
 }
-.third_1{
-    width: 920px;
-    height: 100px;
-    background-color:gold;
 
-}
 .aside{
     width: 30%;
     display: flex;
